@@ -8,3 +8,6 @@ python:
 script: 
 
   - python hello.py
+
+email: 
+  - geoff624@yahoo.com
